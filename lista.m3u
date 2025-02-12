@@ -1,3 +1,71 @@
-#EXTM3U Acestream
-#EXTINF:-1 group-title="TV", MPalaw2--
-http://192.168.1.169:6878/ace/getstream?id=36dfc36084b2138d3451c4700b462ac1094d693d
+#EXTM3U
+#EXTINF:-1 tvg-id="BeIN LA Liga ES" group-title="",BeIN LA Liga ES
+http://192.168.1.169:6878/ace/getstream?id=f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1
+#EXTINF:-1 tvg-id="BeIN Sports 1 ES" group-title="",BeIN Sports 1 ES
+http://192.168.1.169:6878/ace/getstream?id=2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc
+#EXTINF:-1 tvg-id="Digi Sport 1 RO" group-title="",Digi Sport 1 RO
+http://192.168.1.169:6878/ace/getstream?id=1c8963217116ba5be7330f3b3d53a64945ef6ac6
+#EXTINF:-1 tvg-id="Digi Sport 2 RO" group-title="",Digi Sport 2 RO
+http://192.168.1.169:6878/ace/getstream?id=24c35436605b2f39fbf7a1e13213bf6df2249a82
+#EXTINF:-1 tvg-id="Digi Sport 3 RO" group-title="",Digi Sport 3 RO
+http://192.168.1.169:6878/ace/getstream?id=78468aadf7cb54564f4cc4147b7e7b3d576dbba9
+#EXTINF:-1 tvg-id="Digi Sport 4 RO" group-title="",Digi Sport 4 RO
+http://192.168.1.169:6878/ace/getstream?id=35f92608c573da5e6f3615e80bca55c14663efb0
+#EXTINF:-1 tvg-id="Dolce Sport 5 RO" group-title="",Dolce Sport 5 RO
+http://192.168.1.169:6878/ace/getstream?id=9a2f12aba70b745586fa3c47fa404451acfd9110
+#EXTINF:-1 tvg-id="Dolce Sport 6 RO" group-title="",Dolce Sport 6 RO
+http://192.168.1.169:6878/ace/getstream?id=1af3232d1bd5b320838c0fee8b366bc5b39a544b
+#EXTINF:-1 tvg-id="Extreme Sports" group-title="",Extreme Sports
+http://192.168.1.169:6878/ace/getstream?id=d8f15fa7affd8a41f53dae7d0b6091f46f7967ba
+#EXTINF:-1 tvg-id="Eleven Sports HD POL" group-title="",Eleven Sports HD POL
+http://192.168.1.169:6878/ace/getstream?id=96694c37ca8c5b64eeb35314b3461bf2dab03042
+#EXTINF:-1 tvg-id="Eleven HD POL" group-title="",Eleven HD POL
+http://192.168.1.169:6878/ace/getstream?id=9af6e701ebae1408c1b0d98fd1e309d1ff800217
+#EXTINF:-1 tvg-id="Eurosport 1 HD POL" group-title="",Eurosport 1 HD POL
+http://192.168.1.169:6878/ace/getstream?id=3492f732afe556df499f03c617b3ca69634eb86b
+#EXTINF:-1 tvg-id="Eurosport DE" group-title="",Eurosport DE
+http://192.168.1.169:6878/ace/getstream?id=116d6a4aaf1f23580f224583a5de63adb59b7caf
+#EXTINF:-1 tvg-id="TVP 1" group-title="",TVP 1
+http://192.168.1.169:6878/ace/getstream?id=333bbad5063ae7ca464958e3138e8e0a5166d99f
+#EXTINF:-1 tvg-id="TVP Sport HD POL" group-title="",TVP Sport HD POL
+http://192.168.1.169:6878/ace/getstream?id=a22c99488ee267b684b281760431fae72e887eae
+#EXTINF:-1 tvg-id="NSport HD POL" group-title="",NSport HD POL
+http://192.168.1.169:6878/ace/getstream?id=27399f672dc8fdbaea405dd8f94555d5868de931
+#EXTINF:-1 tvg-id="POLSAT Sport HD POL" group-title="",POLSAT Sport HD POL
+http://192.168.1.169:6878/ace/getstream?id=96694c37ca8c5b64eeb35314b3461bf2dab03042
+#EXTINF:-1 tvg-id="POLSAT Sport Extra HD POL" group-title="",POLSAT Sport Extra HD POL
+http://192.168.1.169:6878/ace/getstream?id=6798319351409f1f99617cfe2ea562748771ddfc
+#EXTINF:-1 tvg-id="Canal+ POL" group-title="",Canal+ POL
+http://192.168.1.169:6878/ace/getstream?id=17f0b2fcd49baba34c2a601f5120c6a440bc89f1
+#EXTINF:-1 tvg-id="Canal+ Sport HD POL" group-title="",Canal+ Sport HD POL
+http://192.168.1.169:6878/ace/getstream?id=9c49b233876731d02aa9d0a586381a9e9ff6a644
+#EXTINF:-1 tvg-id="Canal+ Sport 2 HD POL" group-title="",Canal+ Sport 2 HD POL
+http://192.168.1.169:6878/ace/getstream?id=f00e6dc58e57f500cde35db3fb1f24193cbe1e99
+#EXTINF:-1 tvg-id="C More Sport HD SWE" group-title="",C More Sport HD SWE
+http://192.168.1.169:6878/ace/getstream?id=3b85ee777663c6d5409dd5dc15f1403b19c877bf
+#EXTINF:-1 tvg-id="A Sport HD TR" group-title="",A Sport HD TR
+http://192.168.1.169:6878/ace/getstream?id=85ba1e6372f065215e7be4c36427395fe7605c8b
+#EXTINF:-1 tvg-id="SFR Sports 1 FR" group-title="",SFR Sports 1 FR
+http://192.168.1.169:6878/ace/getstream?id=05665fa2a1f1ec62e62920cfec3751a0e9586f0d
+#EXTINF:-1 tvg-id="Sky Sports News DE" group-title="",Sky Sports News DE
+http://192.168.1.169:6878/ace/getstream?id=7b1654c70e925413a0576736eb3ece679c3a364d
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" group-title="",Sky Sport 1 DE
+http://192.168.1.169:6878/ace/getstream?id=e10b216f056d5183bb3c785f074e7d0abea93a7f
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" group-title="",Sky Sport 2 DE
+http://192.168.1.169:6878/ace/getstream?id=e6d7a349c9a6f9e231b713e46e927fa4df84c61b
+#EXTINF:-1 tvg-id="Sky Bundesliga 1 DE" group-title="",Sky Bundesliga 1 DE
+http://192.168.1.169:6878/ace/getstream?id=30fb246c92a76538e186d4119ed2287bdff1c439
+#EXTINF:-1 tvg-id="Sport 1+ DE" group-title="",Sport 1+ DE
+http://192.168.1.169:6878/ace/getstream?id=02d7a8c47e049589bdc1618f9939fcd07326b650
+#EXTINF:-1 tvg-id="SportDigital HD DE" group-title="",SportDigital HD DE
+http://192.168.1.169:6878/ace/getstream?id=f62005a3d1cb2ac0396357dc0b245c8cd64805da
+#EXTINF:-1 tvg-id="Sport TV 1 HD PT" group-title="",Sport TV 1 HD PT
+http://192.168.1.169:6878/ace/getstream?id=c175f79bfa5698dff00ae3467068336019b3912e
+#EXTINF:-1 tvg-id="Sport TV 2 PT" group-title="",Sport TV 2 PT
+http://192.168.1.169:6878/ace/getstream?id=89122d5e60866e9127a5f3849170031b16402adc
+#EXTINF:-1 tvg-id="Sport TV 3 PT" group-title="",Sport TV 3 PT
+http://192.168.1.169:6878/ace/getstream?id=cf72f0fa0cee438cca43f2ea8299d04d1bf4c9d5
+#EXTINF:-1 tvg-id="Sky Sports 1 IT" group-title="",Sky Sports 1 IT
+http://192.168.1.169:6878/ace/getstream?id=986ea9418dd4604df704e04ff9dc44948562d839
+#EXTINF:-1 tvg-id="Super Tennis HD IT" group-title="",Super Tennis HD IT
+http://192.168.1.169:6878/ace/getstream?id=5c40bb4a163fe01ad299ca564047af35b3f4f280
