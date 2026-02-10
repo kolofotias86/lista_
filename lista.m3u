@@ -1,39 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Bein HD 1" group-title="",Bein HD 1
-http://192.168.1.205:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+http://192.168.1.200:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 #EXTINF:-1 tvg-id="Bein HD 2" group-title="",Bein HD 2
-http://192.168.1.205:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
+http://192.168.1.200:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-id="Bein HD 3" group-title="",Bein HD 3
-http://192.168.1.205:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
+http://192.168.1.200:6878/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
 #EXTINF:-1 tvg-id="Bein HD 4" group-title="",Bein HD 4
-http://192.168.1.205:6878/ace/getstream?id=683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+http://192.168.1.200:6878/ace/getstream?id=683cd0cbacf55fa8b39c363219ffba1bc47cf9d
 #EXTINF:-1 tvg-id="Bein Extra" group-title="",Bein Extra
-http://192.168.1.205:6878/ace/getstream?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5
+http://192.168.1.200:6878/ace/getstream?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5
 #EXTINF:-1 tvg-id="Sky Sport 1" group-title="",Sky Sport 1
-http://192.168.1.205:6878/ace/getstream?id=c12288663069a12aff58f3f62e8ea47ab78c65d
+http://192.168.1.200:6878/ace/getstream?id=c12288663069a12aff58f3f62e8ea47ab78c65d
 #EXTINF:-1 tvg-id="Sky Sport 2" group-title="",Sky Sport 2
-http://192.168.1.205:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
+http://192.168.1.200:6878/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
 #EXTINF:-1 tvg-id="Sky Sport F1" group-title="",Sky Sport F1
-http://192.168.1.205:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+http://192.168.1.200:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-id="Sky Sports Football UK" group-title="",Sky Sports Football UK
-http://192.168.1.205:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
+http://192.168.1.200:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-id="Sky Sport Main Event" group-title="",Sky Sport Main Event
-http://192.168.1.205:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+http://192.168.1.200:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-id="RTL 1" group-title="",RTL 1
-http://192.168.1.205:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
+http://192.168.1.200:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-id="RTL 2" group-title="",RTL 2
-http://192.168.1.205:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+http://192.168.1.200:6878/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
 #EXTINF:-1 tvg-id="RTL 3" group-title="",RTL 3
-http://192.168.1.205:6878/ace/getstream?id=RTL 38b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+http://192.168.1.200:6878/ace/getstream?id=RTL 38b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
 #EXTINF:-1 tvg-id="RTL 3" group-title="",RTL 3
-http://192.168.1.205:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+http://192.168.1.200:6878/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
 #EXTINF:-1 tvg-id="RTL 4" group-title="",RTL 4
-http://192.168.1.205:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
+http://192.168.1.200:6878/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
 #EXTINF:-1 tvg-id="RU sport HD" group-title="",RU sport HD
-http://192.168.1.205:6878/ace/getstream?id=32779a8a8cd7bfcb0d45ebe68f28457e4b3aeae4
+http://192.168.1.200:6878/ace/getstream?id=32779a8a8cd7bfcb0d45ebe68f28457e4b3aeae4
 #EXTINF:-1 tvg-id="BT Sport 1" group-title="",BT Sport 1
-http://192.168.1.205:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+http://192.168.1.200:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-id="BT Sport 2" group-title="",BT Sport 2
-http://192.168.1.205:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+http://192.168.1.200:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-id="BT Sport 3" group-title="",BT Sport 3
-http://192.168.1.205:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+http://192.168.1.200:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
