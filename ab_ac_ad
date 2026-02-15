@@ -1,0 +1,195 @@
+#EXTM3U
+#EXTINF:-1,BT Sport 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=dc5310a7e47fcd52cf1d9d7c4db089d72cf3d9e5
+#EXTINF:-1,BT Sport 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9
+#EXTINF:-1,BT Sport ESPN (Sport)
+http://192.168.1.200:6878/ace/getstream?id=19ac8f262e29e04dfcf4ae88695e4f0a78bd7e64
+#EXTINF:-1,BT Sport Europe (Sport)
+http://192.168.1.200:6878/ace/getstream?id=5e6aaac0404893cc6d85145bb988f93052d55086
+#EXTINF:-1,BTV 1 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=253369b57f2a45e1489e5bb7eab4daf0a4cde415
+#EXTINF:-1,BTV 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=c1646f459c86ab24533650333957a57b457d80c1
+#EXTINF:-1,Bein Sports 1 HD France (Sport)
+http://192.168.1.200:6878/ace/getstream?id=6aee464bcf506d9b72e57e13acead0ba1ef74cfd
+#EXTINF:-1,Bein Sports 2 HD France (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a3f3c82edac8c14ff7bb9b9a25a46d91b5c71995
+#EXTINF:-1,Boxnation (Sport)
+http://192.168.1.200:6878/ace/getstream?id=6523e673b7f5fe48627ac9c9ae15ff544e5b3652
+#EXTINF:-1,C More Tennis (Sport)
+http://192.168.1.200:6878/ace/getstream?id=77353129af1bafbf313e2a2925d9166010e92ce4
+#EXTINF:-1,Canal+ Deportes (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a994a04ff801f11872fc1e89258d53c5601ccfbd
+#EXTINF:-1,Canal+ Deportes 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=7a3408bafc83d13ec6ecd8dcbc1d0511d4032963
+#EXTINF:-1,Canal+ Futbol (Sport)
+http://192.168.1.200:6878/ace/getstream?id=1126a44a424fca3cef28870eb518a58619ec4f33
+#EXTINF:-1,Canal+ Liga (Sport)
+http://192.168.1.200:6878/ace/getstream?id=3f3c263e29698f8b764708164718448c97faf205
+#EXTINF:-1,Digi Sport 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=7525fc778e3f751b430d4cf626e187268e67a1d5
+#EXTINF:-1,Digi Sport 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=843675d1c8f68003732db7d73557155dafc5ba03
+#EXTINF:-1,Eurosport (Sport)
+http://192.168.1.200:6878/ace/getstream?id=0eb65dcc6609f1da4224350ca4137f164b270611
+#EXTINF:-1,Eurosport 2 British (Sport)
+http://192.168.1.200:6878/ace/getstream?id=7462d97e96e0f05e4551dbd3fb8a75a2d746c596
+#EXTINF:-1,Eurosport britannique (Sport)
+http://192.168.1.200:6878/ace/getstream?id=268877735d560d2fe78f44bc763e40e2b23b13e4
+#EXTINF:-1,Eurosport HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=fa16ca34e881642ee82a909801c75d073d05a307
+#EXTINF:-1,Eurospоrt 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=3fcbd165c9a5824563b2cda4a4142ae96a47e5a9
+#EXTINF:-1,Eurospоrt 2 Nord-Est (Sport)
+http://192.168.1.200:6878/ace/getstream?id=4b71476f6930076f6e474a520c206fdfd6c33b20
+#EXTINF:-1,Eurospоrt 2 Nord-Est HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=9ab089645c4fc0845594c063b3f372e842c806a0
+#EXTINF:-1, Sports Extrêmes (Спорт)
+http://192.168.1.200:6878/ace/getstream?id=c96288002d3bbb5f882318b80058740ba81f05ee
+#EXTINF:-1,F+ BG (Sport)
+http://192.168.1.200:6878/ace/getstream?id=9e16ad20b97bffe4df71c4a5c80cdb10567ffcd7
+#EXTINF:-1,Fox Sports 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=af93b5ae38efe7c048e2687bf0a4d028bd55303a
+#EXTINF:-1,HD Sport (Sport)
+http://192.168.1.200:6878/ace/getstream?id=0b6d8d290910f6670b4ffb0356016f1e3909b303
+#EXTINF:-1,Télévision Motors (Sport)
+http://192.168.1.200:6878/ace/getstream?id=84c27a15472ee950e0567667dfd270cc81b01498
+#EXTINF:-1,Automobile (Sport)
+http://192.168.1.200:6878/ace/getstream?id=78e3496e60eb6531f1335639f84b28d712874ae3
+#EXTINF:-1,Movistar F1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=98b327d19a16be09070212124826e9209cb97540
+#EXTINF:-1,Movistar MotoGP (Sport)
+http://192.168.1.200:6878/ace/getstream?id=ed9387ebbf6caac72e04e7b66880fd4b69999069
+#EXTINF:-1,Nova Sport (Sport)
+http://192.168.1.200:6878/ace/getstream?id=2dd6f07b0f6b600ee0ced7e9e8af352939b0d2e9
+#EXTINF:-1,Nova Sport BG (Sport)
+http://192.168.1.200:6878/ace/getstream?id=c7c47c5e7df3ecc92fe36d392a4c38ef4acd616d
+#EXTINF:-1,Polsat Sport Extra HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=ed20cc93e89e6b232ee9e515b7cdeed57fd773b5
+#EXTINF:-1,Polsat Sport HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=dfb1115adb7c8740bea94431bdadf2e19fc9bd99
+#EXTINF:-1,Polsat Sport News (Sport)
+http://192.168.1.200:6878/ace/getstream?id=4c0c928a085aaa180288be1d749ccfd4aed253be
+#EXTINF:-1,Premier Sports (Sport)
+http://192.168.1.200:6878/ace/getstream?id=fb2080a96e762e926a33e61c70bd74edb2beabdf
+#EXTINF:-1,Setanta Sports + HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=0f7600a4b59199820c0e19bd8457b5a617c5b2cb
+#EXTINF:-1,Setanta Sports Eurasia HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=4f341d4014b588016bdc636b906b880af6a26e63
+#EXTINF:-1,Sky Bundesliga 1 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=1bb5ab9b57f1846cdeda02875fef8f0205d6cf30
+#EXTINF:-1,Sky Sports 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c
+#EXTINF:-1,Sky Sports 3 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=2e8b87e0595573cf9cc422899d0e4c86fbd83081
+#EXTINF:-1,Sky Sports 4 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=5d255851c2ac4f2722cd6b988ff9f1b585baf1fe
+#EXTINF:-1,Sky Sports 5 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=37558d4ae8149aebd7e87a406fece41626e35c31
+#EXTINF:-1, Sky Sports F1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=02c14347959f78d8bf18f898c56f429ab5a44c7b
+#EXTINF:-1,Sport 1 Cz (Sport)
+http://192.168.1.200:6878/ace/getstream?id=f8dec5ebffa4dda90639d1f87b4d1a66bf46fb60
+#EXTINF:-1,Sport 1 DE (Sport)
+http://192.168.1.200:6878/ace/getstream?id=3a619efa4e9efb342affe2042a80647497ef5dbd
+#EXTINF:-1,Sport 1 LT (Sport)
+http://192.168.1.200:6878/ace/getstream?id=ea4535ee130fde3a58ab83ab5ddb7d1e54cc7ffb
+#EXTINF:-1,Sport 1 Sélection (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a770493d86f72ac642fbd07633de46ebb026a8c1
+#EXTINF:-1,Sport 1 Football HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=c25b448994bd0153f88f6e6bb2181dae99a7b471
+#EXTINF:-1,Sport 2 Cz (Sport)
+http://192.168.1.200:6878/ace/getstream?id=923bfb351663df55f2708a82eeadb50225bc213d
+#EXTINF:-1,Sport Klub 1 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=f45e35deeb69c4a358693c5af42bc79f05cd55c5
+#EXTINF:-1, Sport Klub 2 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=adb937189076b348088dbe734444038d5399b2a1
+#EXTINF:-1, Sport Klub 3 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=cd4d057df5be5b5bc394c0f425d6d90b6dadf721
+#EXTINF:-1, Sport TV 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=cfeb62e9c104e669a639e74966ad9e6f4b1939b6
+#EXTINF:-1,Sport TV 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=fbf8d2630934d7de5306254304f754f96569f2f3
+#EXTINF:-1,Télé Sport 3 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=9cc147cb9e58eb6db7c3445e50a24e62d22be9f1
+#EXTINF:-1,Télé Sport 4 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=361dcc58de1514acfa763207989153597b275fde
+#EXTINF:-1, Sport TV 5 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=bf41112287550c64b2e18e81706e10356dbb8bbc
+#EXTINF:-1,Super Tennis HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=c0348d263ba7bbb3044b156f806999b0ead8d93e
+#EXTINF:-1,TV2 Sport HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=7aeb6ae47583a751939edd88baba9b631a7bda1d
+#EXTINF:-1,TV4 Sport HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=abbcd13d162fb8b46c88f45be37934eb0b7cafdc
+#EXTINF:-1,Télédeporte (Sport)
+http://192.168.1.200:6878/ace/getstream?id=db4090163ee29319561f077dcf7ca14d15d17535
+#EXTINF:-1,Viasat Fotboll (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a38f93b6d18d9c86bfb664d9f17d202cc393401d
+#EXTINF:-1,Viasat Hockey (Sport)
+http://192.168.1.200:6878/ace/getstream?id=548d364053e6650458e3f347dfbda0dd852781da
+#EXTINF:-1,Viasat Motor (Sport)
+http://192.168.1.200:6878/ace/getstream?id=b70983ba89591f00e2602a35e957a2d856a6d58c
+#EXTINF:-1,Viasat Sport (Sport)
+http://192.168.1.200:6878/ace/getstream?id=85af5fea5d322f18eb39e2f71781afda18f67721
+#EXTINF:-1,Viasat Sport Baltic (Sport)
+http://192.168.1.200:6878/ace/getstream?id=3bea2f854be3b3fc2f6192347c5161611c70fb5f
+#EXTINF:-1,Viasat Sport HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=5d3122e8468376291a2cf73b3e241a9c1d361a5d
+#EXTINF:-1,Viasat Sport Sverige (Sport)
+http://192.168.1.200:6878/ace/getstream?id=ac7db4c644c21ca9d72c6724fcb206883a87fbbd
+#EXTINF:-1,Viasat TV3 Sport 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=783f9190794b0cf507cc0da231d280121e8f89ad
+#EXTINF:-1,Viasat TV3 Sport 2 DN (Sport)
+http://192.168.1.200:6878/ace/getstream?id=b717c5b6853889fd017561fd8e473cd4acd761b9
+#EXTINF:-1,nSport + HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a1647d300e3e1de2844a8b7bfa33f32ed3d288c9
+#EXTINF:-1,Biélorussie 5 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=b391b04a8981d61883d5189f1566cdb0922b1a4b
+#EXTINF:-1,KHL HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=cf14cfa8976e00fced049b5c00b595a42c47d7ea
+#EXTINF:-1, KHL TV (Sport)
+http://192.168.1.200:6878/ace/getstream?id=075ac7161214169a155eacc761316c60edd443c2
+#EXTINF:-1,NTV+ Basketball (Sport)
+http://192.168.1.200:6878/ace/getstream?id=5f143a66be8e383684f6b6f22e180cedc605b7b2
+#EXTINF:-1,НТВ+ Sport (Sport)
+http://192.168.1.200:6878/ace/getstream?id=f0e667aab1b407811934a6c64007a545fd61a1ec
+#EXTINF:-1,NTV+ Sport plus (Sport)
+http://192.168.1.200:6878/ace/getstream?id=3c99c762e5738a59d18c58be22571878e075b2c1
+#EXTINF:-1,NTV+ Tennis (Sport)
+http://192.168.1.200:6878/ace/getstream?id=11dee41956040e36af67551021453ddf5c066b08
+#EXTINF:-1,NTV+ Football 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=151fd8ba54aa7e52d23606705d0fd887844b1e51
+#EXTINF:-1,НТВ+ Футбол 1 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=dff88f6a0e6ae7f7b62002880de4744a33cff387
+#EXTINF:-1,NTV+ Football 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=8a1014197fa9f24b6a8b9ce32fa2f3772707c4c0
+#EXTINF:-1,НТВ+ Football 2 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=c0a7bd187ff66ea807c30912168ad26660bb0615
+#EXTINF:-1,НТВ+ Футбол 3 (Спорт)
+http://192.168.1.200:6878/ace/getstream?id=319e27ad9a62fe9c7d783f8f748e3761c76790e0
+#EXTINF:-1,НТВ+ Football 3 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=5b3db74f4b5e998fab8158344832b4591e35c3b4
+#EXTINF:-1, Russie 2 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=f4075b8ae4aa730db672d9318632d30579c117ff
+#EXTINF:-1, Sport (Sport)
+http://192.168.1.200:6878/ace/getstream?id=86bfc4908805d311de31872a5010daee951977f0
+#EXTINF:-1,Sport 1 (Sport)
+http://192.168.1.200:6878/ace/getstream?id=074f85ed94c64542e6aba80a64ce7863e9184095
+#EXTINF:-1, Sport 1 (Ukraine) (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a306a51ae9a8717fd659d9f432318b465e51895a
+#EXTINF:-1,SPORT 1 HD (Sport)
+http://192.168.1.200:6878/ace/getstream?id=a9f42f3cf51a5aefd9aa697ed17dfcd07a9fc976
+#EXTINF:-1,Sport 2 (Ukraine) (Sport)
+http://192.168.1.200:6878/ace/getstream?id=f2131a8d90dae5ed9303f0f5af62dacea8c561e2
+#EXTINF:-1,Football (Sport)
+http://192.168.1.200:6878/ace/getstream?id=27aedf84f15dd5b343b16fd9cec4f900373f7401
+#EXTINF:-1,Football 1 (Ukraine) (Sport)
+http://192.168.1.200:6878/ace/getstream?id=7fe059c682380504eda497c03417783a378c5ed9
+#EXTINF:-1,Football 1 HD (Ukraine) (Sport)
+http://192.168.1.200:6878/ace/getstream?id=ad418d698e39062d4640914ff452ce62e763e10c
+#EXTINF:-1,Football 2 (Ukraine) (Sport)
+http://192.168.1.200:6878/ace/getstream?id=fd70ad1f9ad5464e4e022fd07943a814bd79947d
+#EXTINF:-1,Football 2 HD (Ukraine) (Sport)
+http://192.168.1.200:6878/ace/getstream?id=570972d842056f7a676e3e8c41e36c14236
